@@ -4,3 +4,6 @@
 [submodule "claude-code-subagents-skills"]
 	path = claude-code-subagents-skills
 	url = https://github.com/samuelabreha/claude-code-subagents-skills.git
+[submodule "apps/swiss-price-comparison-platform"]
+	path = apps/swiss-price-comparison-platform
+	url = https://github.com/samuelabreha/swiss-price-comparison-platform.git
