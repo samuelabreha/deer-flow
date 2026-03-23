@@ -1,0 +1,68 @@
+name: e-commerce
+description: Use when handtina-ndescription: Usn:---
+
+# E-Commerce Expert Team
+
+This skill activates the e-commerce expert team for any online selling task.
+
+## Agents Available
+1. E-Commerce Manager — coordination, KPIs, prioritization
+2. Agent Catalogue Produits — pr a
+#lys
+This skill activates tgie
+## Agents Available
+1. E-Commerce Manager — coordination, KPIs, prioritile
+1. E-Commerce Manaar2. Agent Catalogue Produits — product catalog management
+es3. Agent Pricing Dynamique — dynamic pricing optimizatil 4. Agent Fiche Produit — product page creation (SEO, con t5. Agent Panier & Conversion — cart and checkout optimintificatio6. Agent Logistique & Stock — inventory and supply managemene:7. Agent Avis Clients — customer review management
+8. Agent al8. Agent Moniteur Performance — KPI monitoring ing/
+## Source
+Reference: ressources/Equipes-Agents/E-CommerceUseReferencd EOF
+
+cat > skills/public/geoloc---
+name: e-commerce
+description: Us Ade, rdescription: Us Ade, rdescriation, and budget management.
+---
+
+# Paid Advertising Expert Team
+
+Manages all paid advertising channels and campaign optimization.
+
+## Agents Available
+1. Ads Manager — campaign coordination and budget allocation
+2. Agent Google Ads — Search, Display, Shopping campaigns
+3. Agent Meta Ads — Facebook and Instagram advertising
+4. Agent TikTok Ads — TikTok advertising campaigns
+5. Agent Retargeting — remarketing and audience segmentation
+6. Agent Creatives — ad creative design and A/B testing
+7. Agent Budget Optimizer — ROAS optimization
+8. Agent Analytics Ads — cross-platform reporting
+
+## Source
+Reference: ressources/Equipes-Agents/Publicite-Payante/equipe-ads.md
+EOF
+
+cat > skills/public/email-marketing/SKILL.md << 'EOF'
+---
+name: email-marketing
+description: Use for email marketing: newsletters, automated sequences, segmentation, deliverability optimization, A/B testing, and email analytics.
+---
+
+# Email Marketing Expert Team
+
+Complete email marketing automation and optimization.
+
+## Agents Available
+1. Email Manager — strategy and coordination
+2. Agent Newsletter — newsletter creation and scheduling
+3. Agent Sequences — automated email flows (welcome, cart, post-purchase)
+4. Agent Segmentation — audience segmentation and targeting
+5. Agent Deliverabilite — deliverability optimization (SPF, DKIM, DMARC)
+6. Agent A/B Testing — subject lines, content, timing tests
+7. Agent Templates — email template design
+8. Agent Analytics Email — open rates, CTR, revenue tracking
+
+## Source
+Reference: ressources/Equipes-Agents/Email-Marketing/equipe-email.md
+EOF
+
+echo "=== 4 skills created (e-commerce, geolocation, ads, email) ==="

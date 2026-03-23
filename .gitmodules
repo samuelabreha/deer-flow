@@ -1,0 +1,6 @@
+[submodule "ressources-software"]
+	path = ressources-software
+	url = https://github.com/samuelabreha/ressources-software.git
+[submodule "claude-code-subagents-skills"]
+	path = claude-code-subagents-skills
+	url = https://github.com/samuelabreha/claude-code-subagents-skills.git
